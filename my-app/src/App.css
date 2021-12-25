@@ -13,15 +13,32 @@
   }
 }
 
+
+@font-face {
+  font-family: 'kefirmedium';
+  src: url('fonts/rohh_-_kefir_medium-webfont.woff2') format('woff2'),
+       url('fonts/rohh_-_kefir_medium-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 .App-header {
-  background-color: #faf2e2;
+  font-family: "kefirmedium";
+  background-color: #0e153a;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: calc(10px + 3vmin);
+  color: rgb(255, 250, 205);
+}
+
+h1{
+  font-family: "kefirmedium";
+  font-size: 40px;
+  color:blue;
 }
 
 .App-link {
