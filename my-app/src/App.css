@@ -1,10 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=NTR&display=swap');
+
 .App {
-  text-align: center;
+  text-align: left;
+  font-family: 'NTR', sans-serif;
+  background-color: #151830;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#content {
+  width: 100vw;
+  overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -22,18 +32,6 @@
   font-style: normal;
 }
 
-
-.App-header {
-  font-family: "kefirmedium";
-  background-color: #0e153a;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 3vmin);
-  color: rgb(255, 250, 205);
-}
 
 h1{
   font-family: "kefirmedium";
