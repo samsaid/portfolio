@@ -1,0 +1,25 @@
+#projects{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 15%;
+    padding-top: 5%;
+    font-weight: 200;
+    min-height: 100vh;
+}
+
+#projects-content{
+    display: flex;
+    flex-direction: row;
+}
+
+#projects-title{
+    font-size: 40px;
+    color:#e8edff;
+}
+
+#projects-description{
+    font-size: 20px;
+    line-height: 30px;
+    color:rgb(123, 131, 153);
+}
