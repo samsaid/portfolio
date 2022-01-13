@@ -7,11 +7,9 @@ import Projects from './components/Projects.js'
 function App() {
   return (
     <div className="App">
-       <div id='content'>
+       <div className='content'>
          <Intro></Intro>
          <About></About>
-         <Experience></Experience>
-         <Projects></Projects>
        </div>
     </div>
   );

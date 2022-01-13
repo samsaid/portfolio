@@ -1,11 +1,23 @@
 import '../styles/Intro.css'
 
 function Intro() {
+  var image = require("../images/samira.jpg");
+
   return (
   <div id="intro">
-    <div id='title'>hi, samira here. </div>
-    <div id='desc'> I'm a software engineer that enjoys collaboration and challenges.
-    My intrests include full-stack development, human computer interaction, and machine learning.</div>
+    <div className='container'> 
+      <div className='row'>
+        <div className='intro-text'>
+          <div id="title">
+            <h1>Samira Said</h1>
+            <h4>Software Engineer</h4></div>
+        </div>
+        <div className='image-container'>
+        <div className='about-image'><img src={image} id='img'></img></div>
+
+        </div>
+      </div>
+    </div>
   </div>
     );
 }

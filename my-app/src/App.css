@@ -1,77 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=NTR&display=swap');
 
 .App {
-  text-align: left;
-  font-family: 'NTR', sans-serif;
-  background-color: #151830;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-color: #292e3a;
   min-height: 100vh;
-  align-items: center;
-  justify-content: center;
   display: flex;
   flex-direction: row;
 }
 
-#content {
-  /* padding: 80px 200px; */
+.content {
   width: 100vw;
-  overflow-x: hidden;
-  overflow-y: hidden;
-}
-
-@media only screen and (max-width: 600px) {
-  .App {
-    flex-direction: column;
-    padding: 40px 24px;
-  }
-
-  #content {
-    padding: 10px 10px;
-    width: 100%;
-  }
-
-  .section-header {
-    width: unset;
-  }
-
-  .section-header::after {
-    display: none;
-  }
-
-  .section-title {
-    font-size: 32px;
-  }
-}
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-
-@font-face {
-  font-family: 'kefirmedium';
-  src: url('fonts/rohh_-_kefir_medium-webfont.woff2') format('woff2'),
-       url('fonts/rohh_-_kefir_medium-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
-
-h1{
-  font-family: "kefirmedium";
-  font-size: 40px;
-  color:blue;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
