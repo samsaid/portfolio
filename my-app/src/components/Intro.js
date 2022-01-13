@@ -1,7 +1,7 @@
 import '../styles/Intro.css'
 
 function Intro() {
-  var image = require("../images/samira.jpg");
+  var image = require("../images/sam.jpg");
 
   return (
   <div id="intro">
@@ -11,10 +11,12 @@ function Intro() {
           <div id="title">
             <h1>Samira Said</h1>
             <h4>Software Engineer</h4></div>
+            <desc>Hello</desc>
         </div>
         <div className='image-container'>
-        <div className='about-image'><img src={image} id='img'></img></div>
-
+          <div className='about-image'>
+          <img className='profile-img' src={image}></img>
+        </div>
         </div>
       </div>
     </div>

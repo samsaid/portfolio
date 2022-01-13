@@ -2,8 +2,13 @@ import '../styles/Projects.css'
 
 function Projects(){
     return(
-        <div id='projects'>
-            <div id='projects-title'>/ projects</div>
+        <div className='container'>
+            <div className='row'>
+                <div className='column'>
+                    <h2>Projects</h2>
+                
+                </div>
+            </div>
         </div>
     );
 }
