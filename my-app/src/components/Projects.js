@@ -9,6 +9,7 @@ function Projects(){
 
     return(
 <<<<<<< HEAD
+<<<<<<< HEAD
         <div className='container'>
             <div className='row'>
                 <div className='col'>
@@ -32,6 +33,10 @@ function Projects(){
                     </div>
                 </div>
             </div>
+=======
+        <div id='projects'>
+            <div id='projects-title'>/ projects</div>
+>>>>>>> parent of 97ed9af (new format but missing projects)
 =======
         <div id='projects'>
             <div id='projects-title'>/ projects</div>
