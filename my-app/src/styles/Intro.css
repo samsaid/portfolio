@@ -1,39 +1,73 @@
+.container {
+    display: flex;
+    background-color: rgb(149, 177, 160);
+    margin-left: 110.5px;
+    margin-right:110.5px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom:30px;
+  }
+  
+  .row{
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+    row-gap: 10px;
+  }
+
+
 .intro-text {
     display: flex;
     flex-direction: column;
     flex-basis: 100%;
-    flex: 1; 
+    flex: 1 1; 
     padding-left: 15px;
     padding-right: 15px;
     box-sizing: content-box;
-
 }
 
 #title{
-    font-size: 16px;
-    color: rgb(31, 31, 31);
+    font-size: 18px;
+    color: #0c3327;
+    box-sizing: content-box;
 }
 
 .image-container{
     display: flex;
     flex-direction: column;
-    flex: 1 0; 
+    flex: 1 1; 
     padding-left: 15px;
     padding-right: 15px;
     flex-shrink: 0;
-    box-sizing: content-box;
+    box-sizing: border-box;
 }
 
 .profile-img {
    width: 100%;
-   border-radius: 50px;
+   border-radius: 5px;
    flex-shrink: 0;
-   min-width: 200px;
-   box-sizing: content-box;
+   box-sizing: border-box;
+   flex-shrink: 0;
 }
 
 img {
+    width: 100%;
     vertical-align: middle;
     border-style: none;
-    
+    box-sizing: content-box;
+    flex-shrink: 0;
+    min-width: 120px;
   }
+
+#link{
+      font-size: 200%;
+      color:#0c3327;
+  }
+
+  a:visited { 
+    text-decoration: none; 
+    color: black; 
+   }
+
