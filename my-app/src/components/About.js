@@ -2,6 +2,7 @@ import '../styles/About.css'
 
 function About(){
     return(
+<<<<<<< HEAD
         
              <div className='container'>
                  <div className='row'>
@@ -20,6 +21,11 @@ function About(){
                  </div>
              </div>
        
+=======
+        <div id='about'>
+             
+        </div>
+>>>>>>> parent of 97ed9af (new format but missing projects)
     );
 }
 export default About;

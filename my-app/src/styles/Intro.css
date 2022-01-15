@@ -1,4 +1,5 @@
 .container {
+<<<<<<< HEAD
     display: flex;
     background-color: rgb(149, 177, 160);
     margin-left: 110.5px;
@@ -26,6 +27,29 @@
     padding-left: 15px;
     padding-right: 15px;
     box-sizing: content-box;
+=======
+    background-color: rgb(156, 156, 156);
+    margin-left: 75.5px;
+    margin-right:75.5px;
+    border-radius: 10px;
+    margin-top: 75.5px;
+  }
+
+.row{
+    display: flex;
+    flex-wrap: row;
+    padding: 15px;
+    width: 100%;
+}
+
+.intro-text {
+    flex: 41.6666667%;
+    position: relative;
+    width:100%;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+>>>>>>> parent of 97ed9af (new format but missing projects)
 }
 
 #title{
@@ -35,6 +59,7 @@
 }
 
 .image-container{
+<<<<<<< HEAD
     display: flex;
     flex-direction: column;
     flex: 1 1; 
@@ -71,3 +96,20 @@ img {
     color: black; 
    }
 
+=======
+    flex: 58.333333%;
+    position: relative;
+    width:100%;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.about-image, .image-container {
+   width: 70%;
+   border-radius: 50px;
+}
+
+#img {
+    vertical-align: middle;
+  }
+>>>>>>> parent of 97ed9af (new format but missing projects)
