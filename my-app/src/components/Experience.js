@@ -4,6 +4,7 @@ function Experience(){
     return(
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <div className='container'>
             <div className='row'>
                 <div className='column'>
@@ -36,6 +37,10 @@ function Experience(){
                     </div>
                 </div>
             </div>
+=======
+        <div id='experience'>
+            <div id='experience-title'>/ experience</div>
+>>>>>>> parent of 97ed9af (new format but missing projects)
 =======
         <div id='experience'>
             <div id='experience-title'>/ experience</div>

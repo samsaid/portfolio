@@ -4,7 +4,11 @@ import '../styles/Intro.css'
 function Intro() {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   var image = require("../images/sam1.jpg");
+=======
+  var image = require("../images/samira.jpg");
+>>>>>>> parent of 97ed9af (new format but missing projects)
 =======
   var image = require("../images/samira.jpg");
 >>>>>>> parent of 97ed9af (new format but missing projects)
@@ -22,6 +26,7 @@ function Intro() {
             <h4>Software Engineer</h4></div>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             <div>
             </div>
             <div id='link'>
@@ -29,6 +34,8 @@ function Intro() {
               &nbsp;&nbsp;
               <a href="https://www.linkedin.com/in/smsaid/" id="link"><i class="fa fa-linkedin"></i></a> 
             </div>
+=======
+>>>>>>> parent of 97ed9af (new format but missing projects)
 =======
 >>>>>>> parent of 97ed9af (new format but missing projects)
 =======
