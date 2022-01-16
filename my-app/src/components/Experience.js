@@ -9,7 +9,7 @@ function Experience(){
                     <div className='desc'>
                     <h3>BlackRock</h3>
                         <h4>Sofware Engineer Intern</h4>
-                        <h5>Summer 2020</h5>
+                        <h5>Summer 2021</h5>
                         <div className='experience-item'>
                             <div className='d'>
                             <p>Interned for the Aladdin Product Group (APG) Data Layer Team developing a Visual Studio Code plugin that implements syntax highlighting on a file based on database rules from an Apache Database.</p>
