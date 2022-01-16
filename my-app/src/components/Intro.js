@@ -5,7 +5,7 @@ function Intro() {
 
   return (
   
-    <div className='container'> 
+    <div className='intro-container'> 
       <div className='row'>
       
         <div className='intro-text'>
@@ -13,9 +13,8 @@ function Intro() {
           <img className='profile-img' src={image}></img>
         </div>
           <div id="title">
-         
             <h1>Samira Said</h1>
-            <h4>Software Engineer</h4></div>     
+            </div>     
             <div id='link'>
               <a href="https://www.github.com/samsaid" id="link"><i class="fa fa-github-square"></i></a>
               &nbsp;&nbsp;
