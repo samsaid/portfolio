@@ -1,0 +1,27 @@
+.experience-item{
+    display: flex;
+    flex-wrap:column;
+    justify-content: center;
+    justify-items: center;
+    align-items:baseline;
+
+}
+
+.d{
+    display: flex;
+    flex: 2 0 0;
+}
+
+.skills{
+    display: flex;
+    flex: 1 0 0;
+
+}
+
+.dev{
+    display: flex;
+}
+
+.h5{
+    line-height: 3px;
+}

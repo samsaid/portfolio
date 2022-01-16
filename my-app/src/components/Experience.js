@@ -7,34 +7,56 @@ function Experience(){
                 <div className='column'>
                     <h2>Experience</h2>
                     <div className='desc'>
-                        <h3>BlackRock</h3>
+                    <h3>BlackRock</h3>
                         <h4>Sofware Engineer Intern</h4>
                         <h5>Summer 2020</h5>
-                        <ul>
-                            <li>Developed a functional Visual Studio Code plug-in tool aimed to reduce debugging time for 
-                                software developers during file insertion into an Apache Cassandra database.</li>
-                            <li>Participated in daily standup meetings, practiced communication while working with a team remotely, 
-                                and documented research and project progress.</li>
-                                <li>Tools: VSCode, TypeScript, Node.js</li>
+                        <div className='experience-item'>
+                            <div className='d'>
+                            <p>Interned for the Aladdin Product Group (APG) Data Layer Team developing a Visual Studio Code plugin that implements syntax highlighting on a file based on database rules from an Apache Database.</p>
+                            </div>
+                            <div className='skills'>
+                            <ul>
+                            <li>TypeScript</li>
+                            <li>Node.js</li>
+                            <li>Parsing Expression Grammar</li>
+                            <li>VS Code Extension API</li>
                         </ul>
+                            </div>
+                       
+                        </div>
+                        
                         
                         <h4>Software Engineer Intern</h4>
-                        <h5>Summer 2021</h5>
-                        <ul>
-                            <li>Solved bugs and developed new features from tickets for a full 
-                                stack web application used by portfolio managers.</li>
-                            <li>Demonstrated teamwork skills using collaboration tools JIRA, Bitbucket, and Git version control.</li>
-                            <li>Tools: JavaScript, Angular, Node.js</li>
+
+                        <div className='experience-item'>
+                            <div className='d'>
+                            <p>Interned for the Aladdin Product Group (APG) Active Tools team developing new features and solving bugs in tickets for an application used by internal customers.</p>
+                            </div>
+                            <div className='skills'>
+                            <ul>
+                            <li>JavaScript</li>
+                            <li>Java</li>
+                            <li>Angular</li>
+                            <li>Spring Boot</li>
                         </ul>
-                        <br></br>
+                            </div>
+                        </div>
+
                         <h3>Amkor Technology</h3>
                         <h4>Web Applications Intern/Co-op</h4>
-                        <h5>Summer 2019-Winter 2020</h5>
-                        <ul>
-                            <li>Implemented a new front end on the web for a native legacy application 
-                                which stores documents for product defects by employees in the company’s semiconductor factory.</li>
-                            <li> Launched application to production and implemented changes from user experience feedback.</li>
+                        <h5>Summer 2019 - Winter 2020</h5>
+                        <div className='experience-item'>
+                            <div className='d'>
+                            <p>Interned on the Web Applications team to develop a web front end for legacy native applications. Completed and maintained two projects during internship duration. </p>
+                            </div>
+                            <div className='skills'>
+                            <ul>
+                            <li>JavaScript</li>
+                            <li>HTML/CSS</li>
                         </ul>
+                            </div>
+                        </div>
+                        
                     </div>
                 </div>
             </div>
