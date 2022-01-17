@@ -9,12 +9,11 @@ function Projects(){
         <div className='container'>
             <div className='row'>
                 <div className='column1'>
-                    <h2>Projects</h2>
+                <h2>Projects</h2>
                 </div>
                 <div className='column2'>
-                
+                <Slideshow></Slideshow>
                 <div className='cont'>
-                    <Slideshow></Slideshow> 
                     </div>
 
                 </div>

@@ -4,17 +4,17 @@
     justify-content: center;
     justify-items: center;
     align-items:baseline;
-
+    
 }
 
 .d{
     display: flex;
-    flex: 2 0 0;
+    flex: 3 1 1;
 }
 
 .skills{
     display: flex;
-    flex: 1 0 0;
+    flex: 1 1;
 
 }
 

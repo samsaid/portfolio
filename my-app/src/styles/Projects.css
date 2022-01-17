@@ -21,24 +21,12 @@
   }
 
   .column2 {
+    height: 100%;
     display: flex;
     flex-direction: column;
-    flex: 1 400px; 
-    padding-left: 15px;
+    flex: 1 0;
   }
 
-  .proj-column2 {
-    display: flex;
-    flex-direction: column;
-    width:min-content;
-    flex: 2;
-    height: 80%;
-    padding-left: 15px;
-    box-sizing: content-box;
-    white-space: nowrap;
 
-  }
 
- .cont{
-     position: relative;
- }
+ 
