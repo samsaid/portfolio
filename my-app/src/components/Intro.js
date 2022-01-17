@@ -19,8 +19,6 @@ function Intro() {
               <a href="https://www.github.com/samsaid" id="link"> <i class="fa fa-github-square"></i></a> 
               &nbsp;&nbsp;
               <a href="https://www.linkedin.com/in/smsaid/" id="link"><i class="fa fa-linkedin"></i></a> 
-              &nbsp;&nbsp;
-              <a href="https://drive.google.com/file/d/1a9TCdv7qMr0-S3X6FC7F4uOKlP8gSJng/view?usp=sharing" id="link"><i class="fa fa-paperclip"></i></a> 
             </div>
             
         </div>
