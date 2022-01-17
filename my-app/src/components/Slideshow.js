@@ -3,7 +3,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { SliderData } from './SliderData';
 
-var image = require("../images/samira.jpg");
 const colors = ["#FFBB28", "#00C49F", "#FFBB28"];
 
 const delay = 6000;
@@ -40,15 +39,23 @@ function Slideshow() {
         className="slideshowSlider"
         style={{ transform: `translate3d(${-index * 100}%, 0, 0)` }}
       >
-        {SliderData.map((slide, index) => {
-        return <img src={slide.image} alt='test' width='500px'/>;
+        {SliderData.map((slide, index) => { 
+          return(
+                <div
+                key={index}
+                className={"slide" ? 'slide active' : 'slide'}
+                style={slide}>
+                  {(<img src={slide.image} alt='test' className='image'/>)}
+                </div>
+          )
+        
         })}
         
         
       </div>
 
       <div className="slideshowDots">
-        {colors.map((_, idx) => (
+        {SliderData.map((_, idx) => (
           <div
             key={idx}
             className={`slideshowDot${index === idx ? " active" : ""}`}
