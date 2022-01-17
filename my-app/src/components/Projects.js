@@ -10,6 +10,10 @@ function Projects(){
             <div className='row'>
                 <div className='column1'>
                 <h2>Projects</h2>
+                <div className='desc'>
+                    <p>Proj 1:</p>
+                </div>
+
                 </div>
                 <div className='column2'>
                 <Slideshow></Slideshow>

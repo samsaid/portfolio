@@ -19,11 +19,12 @@ function Experience(){
                             <li>TypeScript</li>
                             <li>Node.js</li>
                             <li>VS Code</li>
+                            <li>Regex</li>
                         </ul>
                             </div>
                         </div>
                         
-                        
+                        <h3>BlackRock</h3>
                         <h4>Software Engineer Intern</h4>
                         <h5>Summer 2020</h5>
                         <div className='experience-item'>
@@ -34,14 +35,14 @@ function Experience(){
                             <ul>
                             <li>JavaScript</li>
                             <li>HTML/CSS</li>
-                            <li>Java</li>
                             <li>Angular</li>
+                            <li>Java</li>
+
                         </ul>
                             </div>
                        
                             
                         </div>
-
                         <h3>Amkor Technology</h3>
                         <h4>Web Applications Intern/Co-op</h4>
                         <h5>Summer 2019 - Winter 2020</h5>
@@ -53,6 +54,7 @@ function Experience(){
                             <ul>
                             <li>JavaScript</li>
                             <li>HTML/CSS</li>
+                            <li>Ext JS</li>
                         </ul>
                             </div>
                             
