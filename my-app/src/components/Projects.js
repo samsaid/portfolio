@@ -18,7 +18,7 @@ function Projects(){
                    </ul>
                     <h5>Database Management System and Application</h5>
                    <ul>
-                       <li>PostgresSQL</li>
+                       <li>PostgreSQL</li>
                        <li>SQL</li>
                        <li>React</li>
                        <li>JavaScript</li>
