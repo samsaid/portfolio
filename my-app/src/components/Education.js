@@ -1,6 +1,6 @@
 import '../styles/About.css'
 
-function About(){
+function Education(){
     return(
         
              <div className='container'>
@@ -21,4 +21,4 @@ function About(){
        
     );
 }
-export default About;
+export default Education;
