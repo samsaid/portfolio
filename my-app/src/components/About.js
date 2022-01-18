@@ -8,7 +8,7 @@ function About(){
                     <div className='column'>
                         <h2>Education</h2>
                         <div className='desc'>
-                            <h4>Arizona State University</h4>
+                            <h4>Arizona State University, Ira A. Fulton Schools of Engineering </h4>
                             <ul>
                                 <li>B.S. Computer Science </li>
                                 <li>Graduated December 2021</li>

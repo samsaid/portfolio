@@ -9,24 +9,30 @@ function Projects(){
         <div className='container'>
             <div className='row'>
                 <div className='column1'>
-                <h2>Projects</h2>
+                    <h2>Projects</h2>
                 <div className='desc'>
-                   <h5>Senior Capstone Project</h5>
+                   <h5>Senior Capstone Project&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=ZKO3Fh91f9Q" id="projlink"> <i class="fa fa-link"></i></a></h5> 
+                   <p>Software development for a PhD candidates's thesis, a HoloLens Augmented Reality application of a construction simulator to teach students.</p>
                    <ul>
                        <li>Unity</li>
                        <li>C#</li>
+                       <li>Microsoft HoloLens</li>
                    </ul>
-                    <h5>Database Management System and Application</h5>
+                    
+                    <h5>Database Management System and Application&nbsp;&nbsp; <a href="https://cse-412.herokuapp.com/" id="projlink"> <i class="fa fa-link"></i></a> </h5>
+
+
+                  <p>Relational database developed from ER diagram to implementation and interacting with a full stack application.</p>
                    <ul>
                        <li>PostgreSQL</li>
                        <li>SQL</li>
                        <li>React</li>
                        <li>JavaScript</li>
                    </ul>
-                    <h5>Twitter Sentiment Analysis (NLP)</h5>
+                    <h5>Twitter Sentiment Analysis (NLP)&nbsp;&nbsp; <a href="https://github.com/samsaid/twitter-sentiment-analysis" id="projlink"> <i class="fa fa-link"></i></a></h5>
+                    <p>Sentiment analysis model extracting feelings (sentiment) from live tweets based on a polarizing keyword.</p>
                    <ul>
                        <li>Python</li>
-                       <li>MATLAB</li>
                    </ul>
                    
                 </div>

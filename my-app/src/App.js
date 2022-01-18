@@ -3,7 +3,7 @@ import Intro from './components/Intro.js'
 import About from './components/About.js'
 import Experience from './components/Experience.js'
 import Projects from './components/Projects.js'
-
+import Footer from './components/Footer.js'
 function App() {
   return (
     <div className="App">
@@ -13,6 +13,7 @@ function App() {
          <Projects></Projects>
          <About></About>
          <Experience></Experience>
+         <Footer></Footer>
        </div>
        </div>
     </div>
