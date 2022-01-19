@@ -24,10 +24,10 @@ function App() {
         {/* A <Switch> looks through its children <Route>s and
             renders the first one that matches the current URL. */}
         <Routes>
-        <Route exact path="#" element={<Intro/>}/>
-          <Route path="#projects" element={<Projects/>}/>
-          <Route path="#education" element={<Education/>}/>
-          <Route path="#experience" element={<Experience/>}/>
+        <Route exact path="/" element={<Intro/>}/>
+          <Route path="/projects" element={<Projects/>}/>
+          <Route path="/education" element={<Education/>}/>
+          <Route path="/experience" element={<Experience/>}/>
         </Routes>
     </Router>
 

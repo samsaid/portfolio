@@ -20,10 +20,10 @@ class Navbar extends React.Component{
                   style={{ maxHeight: '100px' }}
                   navbarScroll
                 >
-                  <Link to="#intro"><ReactBootStrap.Nav.Link href="#intro">Intro</ReactBootStrap.Nav.Link></Link>
-                  <Link to="#projects"><ReactBootStrap.Nav.Link href="#projects">Projects</ReactBootStrap.Nav.Link></Link>
-                  <Link to="#education"> <ReactBootStrap.Nav.Link href="#education">Education</ReactBootStrap.Nav.Link></Link>
-                  <Link to="#experience"> <ReactBootStrap.Nav.Link href="#experience">Experience</ReactBootStrap.Nav.Link></Link>
+                  <Link to="/intro"><ReactBootStrap.Nav.Link href="#intro">Intro</ReactBootStrap.Nav.Link></Link>
+                  <Link to="/projects"><ReactBootStrap.Nav.Link href="#projects">Projects</ReactBootStrap.Nav.Link></Link>
+                  <Link to="/education"> <ReactBootStrap.Nav.Link href="#education">Education</ReactBootStrap.Nav.Link></Link>
+                  <Link to="/experience"> <ReactBootStrap.Nav.Link href="#experience">Experience</ReactBootStrap.Nav.Link></Link>
           
                 
                 </ReactBootStrap.Nav>
