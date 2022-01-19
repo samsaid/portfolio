@@ -11,8 +11,8 @@ function Projects(){
                 <div className='column1'>
                     <h2>Projects</h2>
                 <div className='desc'>
-                   <h5>Senior Capstone Project&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=ZKO3Fh91f9Q" id="projlink"> <i class="fa fa-link"></i></a></h5> 
-                   <p>Software development for a PhD candidates's thesis, a HoloLens Augmented Reality application of a construction simulator to teach students.</p>
+                   <h5>Senior Capstone Project - ETBIM Research Lab&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=ZKO3Fh91f9Q" id="projlink"> <i class="fa fa-link"></i></a></h5> 
+                   <p>Software development for a HoloLens Augmented Reality application of a construction simulator to teach students.</p>
                    <ul>
                        <li>Unity</li>
                        <li>C#</li>
@@ -22,7 +22,7 @@ function Projects(){
                     <h5>Database Management System and Application&nbsp;&nbsp; <a href="https://cse-412.herokuapp.com/" id="projlink"> <i class="fa fa-link"></i></a> </h5>
 
 
-                  <p>Relational database developed from ER diagram to implementation and interacting with a full stack application.</p>
+                  <p>Relational database system designed as an ER diagram and implemented to interact with a full stack application.</p>
                    <ul>
                        <li>DDL (Data Definition Language)</li>
                        <li>PostgreSQL</li>
