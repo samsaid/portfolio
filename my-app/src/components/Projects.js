@@ -12,17 +12,17 @@ function Projects(){
                     <h2>Projects</h2>
                 <div className='desc'>
                    <h5>Senior Capstone Project - ETBIM Research Lab&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=ZKO3Fh91f9Q" id="projlink"> <i class="fa fa-link"></i></a></h5> 
-                   <p>Software development for a HoloLens Augmented Reality application of a construction simulator to teach students.</p>
+                   <p>3D Construction site simulator of a playground that provides an interactive contruction building experience in Augmented Reality.</p>
                    <ul>
                        <li>Unity</li>
                        <li>C#</li>
-                       <li>Microsoft HoloLens</li>
+                       <li>Microsoft HoloLens, Mixed Reality Toolkit</li>
                    </ul>
                     
                     <h5>Database Management System and Application&nbsp;&nbsp; <a href="https://cse-412.herokuapp.com/" id="projlink"> <i class="fa fa-link"></i></a> </h5>
 
 
-                  <p>Relational database system designed as an ER diagram and implemented to interact with a full stack application.</p>
+                  <p>Deployed relational database system designed as an ER diagram and implemented to interact with a full stack application.</p>
                    <ul>
                        <li>DDL (Data Definition Language)</li>
                        <li>PostgreSQL</li>
@@ -34,7 +34,7 @@ function Projects(){
                     <p>Sentiment analysis model extracting feelings (sentiment) from live tweets based on a polarizing keyword.</p>
                    <ul>
                        <li>Python</li>
-                       <li>Statistics</li>
+                       <li>Matlab (first iteration)</li>
                    </ul>
                    
                 </div>

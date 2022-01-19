@@ -39,8 +39,8 @@ img {
 
   
 #link{
-    font-size: 36px;
-    color:#102722;
+    font-size: 40px;
+    color:rgb(132, 146, 190);
 }
 
 .intro-container {
@@ -60,14 +60,15 @@ img {
 
 #btn{
     border: none;
-    color: white;
-    background-color: rgb(206, 72, 155);
-    padding: 10px 12px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(156, 166, 253);
+    padding: 12px 12px;
     text-align: center;
     text-decoration: none;
+    font-weight: 500;
     display: inline-block;
     font-size: 13px;
-    border-radius: 4px 4px;
+    border-radius: 3px 3px;
   }
 #button-space{
     padding-top: 7px;
