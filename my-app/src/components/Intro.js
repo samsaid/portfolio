@@ -9,9 +9,7 @@ function Intro() {
       <div className='row'>
       
         <div className='intro-text'>
-        <div className='about-image'>
-          <img className='profile-img' src={image}></img>
-        </div>
+        
           <div id="title">
             <h1>Samira Said</h1>
             </div>     
@@ -20,7 +18,15 @@ function Intro() {
               &nbsp;&nbsp;
               <a href="https://www.linkedin.com/in/smsaid/" id="link"><i class="fa fa-linkedin"></i></a> 
             </div>
-            
+          <div>
+             <br></br>
+            <form action="https://google.com">
+            <input id="btn" type="submit" value="Resume as PDF" />
+            </form>
+            </div>
+        </div>
+        <div className='about-image'>
+          <img className='profile-img' src={image}></img>
         </div>
         
         </div>    

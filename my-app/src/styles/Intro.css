@@ -27,9 +27,9 @@
 .profile-img {
    width: 100%;
    box-sizing: content-box;
-   border-radius: 50%;
+   border-radius: 5px;
    max-width: 150px;
-   min-width: 50px;
+   min-width: 300px;
 }
 
 img {
@@ -57,3 +57,14 @@ img {
     color:rgb(235, 255, 230);
   }
   
+
+#btn{
+    border: none;
+    color: white;
+    background-color: #002b21;
+    padding: 10px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+  }
