@@ -1,6 +1,6 @@
 import '../styles/Footer.css'
 
-var text = ["© 2022 Samira Said ฅ^•ﻌ•^ฅ", "© 2022 Samira Said ฅ^•ﻌ•^ฅ*.ﾟ"]
+var text = ["© 2021 samira ฅ^•ﻌ•^ฅ", "© 2021 samira ฅ^•ﻌ•^ฅ*.ﾟ"]
 var counter = 0;
 var elem = document.getElementById("footer");
 var inst = setInterval(change, 1000);
@@ -16,7 +16,7 @@ function change() {
 function Footer(){
     return(
         <footer id='footer'>
-           <p>© 2022 Samira Said ฅ^•ﻌ•^ฅ</p> 
+           <p>© 2021 samira ฅ^•ﻌ•^ฅ</p> 
         </footer>
     );
 }

@@ -16,15 +16,14 @@ function Projects(){
                    <ul>
                        <li>Unity</li>
                        <li>C#</li>
-                       <li>Microsoft HoloLens (Mixed Reality Toolkit)</li>
+                       <li>Microsoft HoloLens</li>
                    </ul>
                     
                     <h5>Database Management System and Application&nbsp;&nbsp; <a href="https://cse-412.herokuapp.com/" id="projlink"> <i class="fa fa-link"></i></a> </h5>
 
 
-                  <p>Relational database deployed with a full stack application.</p>
+                  <p>Relational database developed from ER diagram to implementation and interacting with a full stack application.</p>
                    <ul>
-                       <li>DDL (Data Definition Language)</li>
                        <li>PostgreSQL</li>
                        <li>SQL</li>
                        <li>React</li>
@@ -34,7 +33,6 @@ function Projects(){
                     <p>Sentiment analysis model extracting feelings (sentiment) from live tweets based on a polarizing keyword.</p>
                    <ul>
                        <li>Python</li>
-                       <li>Statistics</li>
                    </ul>
                    
                 </div>
