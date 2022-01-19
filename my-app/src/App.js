@@ -16,8 +16,7 @@ import {
 function App() {
   return (
     <div className="App">
-      
-      <Router>
+          <Router>
       <Navbar/>
       
      
@@ -30,14 +29,16 @@ function App() {
           <Route path="/experience" element={<Experience/>}/>
         </Routes>
     </Router>
+  
 
       <div className="content">
+        
         <div className="col">
           <Intro></Intro>
           <Projects></Projects>
           <Experience></Experience>
           <Experience></Experience>
-
+            <Footer></Footer>
         </div>
       </div>
     </div>
