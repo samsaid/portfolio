@@ -45,7 +45,7 @@ img {
 
 .intro-container {
     display: flex;
-    background-color: #002b21;
+    background-color: #ffffff;
     margin-bottom:25px;
     box-sizing: content-box;
     max-width: 50%;
@@ -61,10 +61,14 @@ img {
 #btn{
     border: none;
     color: white;
-    background-color: #002b21;
+    background-color: #8d64d8;
     padding: 10px 12px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 13px;
+    border-radius: 4px 4px;
   }
+#button-space{
+    padding-top: 7px;
+}
