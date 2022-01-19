@@ -1,7 +1,7 @@
 import '../styles/Intro.css'
 
 function Intro() {
-  var image = require("../images/samira.jpg");
+  var image = require("../images/sam1.jpg");
 
   return (
   
@@ -14,9 +14,9 @@ function Intro() {
             <h1>Samira Said</h1>
             </div>     
             <div id='link'>
-              <a href="https://www.github.com/samsaid" id="link"> <i class="fa fa-github-square"></i></a> 
+              <a href="https://www.github.com/samsaid" id="link"> <i className="fa fa-github-square"></i></a> 
               &nbsp;&nbsp;
-              <a href="https://www.linkedin.com/in/smsaid/" id="link"><i class="fa fa-linkedin"></i></a> 
+              <a href="https://www.linkedin.com/in/smsaid/" id="link"><i className="fa fa-linkedin"></i></a> 
             </div>
           <div>
              <br></br>
