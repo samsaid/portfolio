@@ -28,8 +28,6 @@
    width: 100%;
    box-sizing: content-box;
    border-radius: 5px;
-   max-width: 150px;
-   min-width: 300px;
 }
 
 img {
