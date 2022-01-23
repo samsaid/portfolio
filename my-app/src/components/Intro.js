@@ -21,7 +21,7 @@ function Intro() {
           <div>
              <br></br>
              <div id="button-space">
-            <form action="https://drive.google.com/file/d/1f_RvC6poAS4bxFjhYcYoO2iZCdhLLm8-/view?usp=sharing">
+            <form action="https://drive.google.com/file/d/1BUWjRHGLTVgvWVLkWIKUr9Qhi7Bn_UIl/view?usp=sharing">
             <input id="btn" type="submit" value="Resume as PDF" />
             </form>
             </div>
