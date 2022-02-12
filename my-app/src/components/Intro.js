@@ -11,11 +11,11 @@ function Intro() {
             <h1>Samira Said</h1>
           </div>
           <div id="link">
-            <a href="https://www.github.com/samsaid" id="link">
+            <a href="https://www.github.com/samsaid" id="link" target="_blank" rel="noopener noreferrer">
               <i className="fa fa-github-square"></i>
             </a>
             &nbsp;&nbsp;
-            <a href="https://www.linkedin.com/in/smsaid/" id="link">
+            <a href="https://www.linkedin.com/in/smsaid/" id="link" target="_blank" rel="noopener noreferrer">
               <i className="fa fa-linkedin"></i>
             </a>
           </div>
