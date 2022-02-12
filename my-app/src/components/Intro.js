@@ -12,7 +12,6 @@ function Intro() {
           </div>
           <div id="link">
             <a href="https://www.github.com/samsaid" id="link">
-              {" "}
               <i className="fa fa-github-square"></i>
             </a>
             &nbsp;&nbsp;

@@ -15,11 +15,8 @@ function App() {
        <div className='content'>
          <div className='col'>
          <Intro></Intro>
-         <Divider></Divider>
          <Projects></Projects>
-        <Divider></Divider>
          <About></About>
-         <Divider></Divider>
          <Experience></Experience>
          <Footer></Footer>
        </div>
