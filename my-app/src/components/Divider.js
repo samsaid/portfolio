@@ -6,7 +6,6 @@ function Divider(){
             <div className='row'>
                 <hr className='rounded'></hr>
             </div>
-
         </div>
     );
 }
