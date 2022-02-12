@@ -12,7 +12,7 @@ function About(){
                             <ul>
                                 <li>B.S. Computer Science </li>
                                 <li>Graduated December 2021</li>
-                                <li>Activities: Undergraduate Teaching Assistant, Engineering Projects in Community Service, National Society of Black Engineers (NSBE), Women in Computer Science (WiCS)</li>
+                                <li>Co-curicculars: Undergraduate Teaching Assistant, Engineering Projects in Community Service, National Society of Black Engineers (NSBE), Women in Computer Science (WiCS)</li>
                             </ul>
                         </div>
                     </div>
