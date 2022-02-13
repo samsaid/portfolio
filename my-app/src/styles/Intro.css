@@ -26,8 +26,8 @@
 
 .profile-img {
    width: 80%;
-   box-sizing: content-box;
    border-radius: 5px;
+   box-sizing: content-box;
 }
 
 img {
@@ -38,7 +38,7 @@ img {
   
 #link{
     font-size: 40px;
-    color:rgb(78, 104, 253);
+    color:rgb(98, 117, 221);
 }
 
 .intro-container {
@@ -59,7 +59,7 @@ img {
 #btn{
     border: none;
     color: rgb(255, 255, 255);
-    background-color: rgb(78, 104, 253);
+    background-color: rgb(98, 117, 221);
     padding: 12px 12px;
     text-align: center;
     text-decoration: none;
