@@ -33,9 +33,12 @@
     justify-content: right;
   }
 
-  #projlink{
-    font-size: small;
-    color: rgb(98, 117, 221);
+  .projlink{
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    text-decoration: none;
+
   }
 
 .projrow{
