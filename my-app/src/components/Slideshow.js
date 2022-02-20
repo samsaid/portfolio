@@ -5,7 +5,7 @@ import { SliderData } from './SliderData';
 
 const colors = ["#FFBB28", "#00C49F", "#FFBB28"];
 
-const delay = 6000;
+const delay = 9999;
 
 function Slideshow() {
     

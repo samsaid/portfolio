@@ -9,7 +9,6 @@ import Divider from './components/Divider';
 
 
 function App() {
-  console.log("hello~ ฅ^•ﻌ•^ฅ");
   return (
     <div className="App">
        <div className='content'>

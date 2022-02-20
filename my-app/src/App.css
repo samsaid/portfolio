@@ -4,7 +4,7 @@
 .App {
   text-align: center;
   font-family: Ubuntu Mono, serif;
-  background-color: #302d3b;
+  background-color: #302b41;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -36,8 +36,8 @@
   background-color: #ebfdec;
   margin-bottom:30px;
   box-sizing: content-box;
-  max-width: 800px;
-  min-width: 60%;
+  max-width:400px;
+  min-width: 50%;
   border-radius: 6px;
   margin-left: 10px;
   margin-right: 10px;
@@ -61,7 +61,7 @@
   flex-direction: row;
   flex-wrap: wrap;
   width: 100%;
-  padding: 15px;
+  padding: 10px;
   box-sizing: content-box;
   row-gap: 10px;
   align-items: center;
