@@ -25,7 +25,6 @@ function Intro() {
                 className="link float-on-hover"
                 target="_blank"
                 rel="noopener noreferrer"
-                alt="Github profile"
                 alt="Linkedin profile"
               >
                 <i className="fa fa-linkedin"></i>

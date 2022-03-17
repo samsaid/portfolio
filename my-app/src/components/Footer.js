@@ -1,11 +1,11 @@
 import '../styles/Footer.css'
-
-
   
 function Footer(){
+    var date = new Date();
+    var year = date.getFullYear();
     return(
         <footer id='footer'>
-           <p>© 2022 Samira Said</p> 
+           <p>© {year} Samira Said</p> 
         </footer>
     );
 }

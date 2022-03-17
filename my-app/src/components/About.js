@@ -3,7 +3,6 @@ import '../styles/About.css'
 function About(){
     console.log('welcome :-)')
     return(
-        
              <div className='container'>
                  <div className='row'>
                     <div className='column'>
@@ -14,8 +13,6 @@ function About(){
                                 <li>B.S. Computer Science </li>
                                 <li>Graduated December 2021</li>
                             </ul>
-
-                       
                         </div>
                     </div>
                  </div>
