@@ -1,10 +1,9 @@
 import '../styles/Projects.css'
-import Slideshow from '../components//Slideshow.js';
+import Slideshow from './Slideshow.js';
 
 
 function Projects(){
     return(
-        
         <div className='container'>
             <div className='row'>
                 <div className='column1'>
