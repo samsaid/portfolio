@@ -1,6 +1,7 @@
 import '../styles/About.css'
 
 function About(){
+    console.log('welcome :-)')
     return(
         
              <div className='container'>
