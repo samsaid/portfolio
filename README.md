@@ -1,4 +1,9 @@
+# ˗ˏˋ portfolio ´ˎ˗
+a simple single-page react portfolio. feel free to use any parts of this code as a template, reference, or inspiration. most up to date branch is "new-format". 
+
+# table of contents
 - [˗ˏˋ portfolio ´ˎ˗](#ˏˋ-portfolio-ˎ)
+- [table of contents](#table-of-contents)
   - [features](#features)
   - [tools](#tools)
   - [development](#development)
@@ -6,9 +11,6 @@
     - [dependencies](#dependencies)
     - [set up](#set-up)
     - [deploy changes](#deploy-changes)
-
-# ˗ˏˋ portfolio ´ˎ˗
-a single-page react portfolio created by samira. feel free to use any parts of this code as a template, reference, or inspiration. most up to date branch is "new-format". 
 
 ## features
 - slider
