@@ -2,12 +2,12 @@
 a ˗ˏˋ simple ´ˎ˗ single-page react portfolio. most up to date branch is "new-format". 
 
 # table of contents
-- [˗ˏˋ portfolio ´ˎ˗](#ˏˋ-portfolio-ˎ)
+- [portfolio](#ˏˋ-portfolio-ˎ)
 - [table of contents](#table-of-contents)
   - [features](#features)
   - [tools](#tools)
   - [development](#development)
-  - [project hierachy](#project-hierachy)
+    - [project hierachy](#project-hierachy)
     - [dependencies](#dependencies)
     - [set up](#set-up)
     - [deploy changes](#deploy-changes)
@@ -25,7 +25,7 @@ a ˗ˏˋ simple ´ˎ˗ single-page react portfolio. most up to date branch is "n
 - javascript
 
 ## development
-## project hierachy
+### project hierachy
 general overview of project hierarchy
 - 📁 portfolio 
   - README.md
