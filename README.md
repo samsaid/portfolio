@@ -1,5 +1,5 @@
-# ˗ˏˋ portfolio ´ˎ˗
-a simple single-page react portfolio. feel free to use any parts of this code as a template, reference, or inspiration. most up to date branch is "new-format". 
+# portfolio
+a ˗ˏˋ simple ´ˎ˗ single-page react portfolio. most up to date branch is "new-format". 
 
 # table of contents
 - [˗ˏˋ portfolio ´ˎ˗](#ˏˋ-portfolio-ˎ)
