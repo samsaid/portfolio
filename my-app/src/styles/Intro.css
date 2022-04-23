@@ -7,7 +7,6 @@
     padding-right: 30px;
     box-sizing: content-box;
     margin: auto;
-    
 }
 
 #title{
@@ -43,7 +42,7 @@ img {
   
 .link{
     font-size: 24px;
-    color:rgb(0, 0, 0);
+    color:rgb(70, 85, 219);
     display: inline-block;
     text-decoration: none;
     margin-bottom: 10px;

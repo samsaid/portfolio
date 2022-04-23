@@ -14,7 +14,7 @@ function Experience(){
                         <div className='experience-item'>
                             <div className='d'>
                             <p>Interned for the Aladdin Product Group (APG) Data Layer Team developing a Visual 
-                                Studio Code plugin that implements syntax highlighting on a file based on its database rules.</p>
+                                Studio Code plugin to improve developer productivity.</p>
                             </div>
                             <div className='skills'>
                             <ul>
@@ -47,10 +47,10 @@ function Experience(){
                         </div>
                         <h3>Amkor Technology</h3>
                         <h4>Web Applications Intern/Co-op</h4>
-                        <h5>Summer 2019 - Winter 2020</h5>
+                        <h5>Summer 2019 - Spring 2020</h5>
                         <div className='experience-item'>
                             <div className='d'>
-                            <p>Interned on the Web Applications Team to develop a web front end for legacy native applications. Completed and maintained two projects during internship duration. </p>
+                            <p>Interned on the Web Applications Team and completed two projects developing a web front end for native applications.  </p>
                             </div>
                             <div className='skills'>
                             <ul>
