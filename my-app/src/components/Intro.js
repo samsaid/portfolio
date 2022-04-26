@@ -29,17 +29,14 @@ function Intro() {
               >
                 <i className="fa fa-linkedin"></i>
               </a>
-              &nbsp;&nbsp;
-              <a
-                href="https://drive.google.com/file/d/147xxVE86JEuwR_w4fQqCJn5woBsaz0Eq/view"
-                className="link float-on-hover"
-                target="_blank"
-                rel="noopener noreferrer"
-                alt="Resume on Google drive"
-              >
-                <i className="fa fa-file-pdf-o"></i>
-              </a>
+              
             </div>
+           
+            <a href="https://drive.google.com/file/d/147xxVE86JEuwR_w4fQqCJn5woBsaz0Eq/view" target="_blank"> <button id="btn" type="button">Resume as PDF</button></a>
+
+
+            
+
             <div>
 
             </div>
