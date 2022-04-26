@@ -31,7 +31,6 @@ function Intro() {
               </a>
               
             </div>
-           
             <a href="https://drive.google.com/file/d/147xxVE86JEuwR_w4fQqCJn5woBsaz0Eq/view" target="_blank"> <button id="btn" type="button">Resume as PDF</button></a>
 
 
