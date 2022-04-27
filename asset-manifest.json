@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8ee2a73.css",
-    "main.js": "/static/js/main.dd7a766a.js",
+    "main.css": "/static/css/main.cd7421cd.css",
+    "main.js": "/static/js/main.b19e2722.js",
     "static/media/sam1.jpg": "/static/media/sam1.fd7a72c7e8666a5fc792.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -12,11 +12,11 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/index.html",
-    "main.e8ee2a73.css.map": "/static/css/main.e8ee2a73.css.map",
-    "main.dd7a766a.js.map": "/static/js/main.dd7a766a.js.map"
+    "main.cd7421cd.css.map": "/static/css/main.cd7421cd.css.map",
+    "main.b19e2722.js.map": "/static/js/main.b19e2722.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8ee2a73.css",
-    "static/js/main.dd7a766a.js"
+    "static/css/main.cd7421cd.css",
+    "static/js/main.b19e2722.js"
   ]
 }
