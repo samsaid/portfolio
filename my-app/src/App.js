@@ -14,8 +14,8 @@ function App() {
        <div className='content'>
          <div className='col'>
          <Intro></Intro>
-         <About></About>
          <Projects></Projects>
+         <About></About>
          <Experience></Experience>
          <Footer></Footer>
        </div>
