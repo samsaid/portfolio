@@ -7,13 +7,13 @@
 }
 
 .d{
-    display: flex;
-    flex: 2 1 0;
+    flex-wrap: column;
+    flex: 1;
 }
 
+
 .skills{
-    display: flex;
-    flex: 2 0 1;
+    flex-wrap: column;
     padding-right: 20px;
 
 }
@@ -22,5 +22,6 @@
     display: flex;
 }
 
-.h5{
+#s{
+    text-indent: 50px;
 }
