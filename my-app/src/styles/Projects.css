@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,700;1,700&display=swap');
+
 .proj-column1 {
     display: flex;
     flex-direction: column;
@@ -9,6 +11,7 @@
     justify-content: center;
   }
 
+ 
   .column1 {
     display: flex;
     flex-direction: column;
@@ -17,7 +20,8 @@
     padding-left: 15px;
     padding-right: 15px;
     box-sizing: content-box;
-    justify-content: center;
+    justify-content: center;   
+    
   }
 
   .column2 {
@@ -45,4 +49,3 @@
   display: flex;
   flex-wrap:column;
 }
- 

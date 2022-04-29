@@ -6,7 +6,8 @@ function Projects(){
         <div className='container'>
             <div className='row'>
                 <div className='column1'>
-                <h2>Projects</h2>
+                  <h2>Projects</h2>
+               
 
                 <div className='desc'>
                    <h5><a href="https://www.youtube.com/watch?v=ZKO3Fh91f9Q" className="projlink float-on-hover" target="_blank" rel="noopener noreferrer"> <i className="fa fa-link"></i>&nbsp;Senior Capstone Project</a></h5>

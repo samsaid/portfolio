@@ -1,3 +1,4 @@
+
 .intro-text {
     display: flex;
     flex-direction: column;
@@ -6,12 +7,13 @@
     padding-left: 15px;
     padding-right: 30px;
     box-sizing: content-box;
+   
     margin: auto;
 }
 
 #title{
-    font-size: 14px;
-    
+    font-size: 13px;
+  color: #38525a;
 }
 
 .about-image{
@@ -27,8 +29,8 @@
 }
 
 .profile-img {
-   width: 370px;
-   border-radius: 15px;
+   width: 400px;
+   border-radius: 10px;
 }
 
 
@@ -69,14 +71,13 @@ img {
     transform: translateY(-8px);
   }
 .intro-container {
-  border: 2px solid rgb(3, 6, 22);
   display: flex;
-  background-color: #e1fce9;
+  background-color: #fcfbf1;
   margin-bottom:30px;
   box-sizing: content-box;
   max-width: 550px;
   min-width: 55%;
-  border-radius: 12px;
+  border-radius: 10px;
   margin-left: 10px;
   margin-right: 10px;
   padding: 14px;
@@ -86,7 +87,7 @@ img {
   #btn{
     border: none;
     color: rgb(255, 255, 255);
-    background-color: #489270;
+    background-color: #38525a;
     padding: 9px 9px;
     text-align: center;
     text-decoration: none;
@@ -102,5 +103,5 @@ img {
   #btn:hover
   {
   background-image:none !important;
-  background-color: #2469cb!important;
+  background-color: #38525af0!important;
   }

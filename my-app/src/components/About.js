@@ -1,7 +1,6 @@
 import '../styles/About.css'
 
 function About(){
-    console.log('hi :-)')
     return(
              <div className='container'>
                  <div className='row'>
