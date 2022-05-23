@@ -10,7 +10,7 @@ function Experience(){
                     <div className='desc'>
                     <h3>BlackRock</h3>
                         <h4>Sofware Engineer Intern </h4>
-                        <h5>Summer 2021</h5>
+                        <p>Summer 2021</p>
                         <div className='experience-item'>
                             <div className='d'>
                             <p>Interned for the Aladdin Product Group (APG) Data Layer Team developing a Visual 
@@ -28,7 +28,7 @@ function Experience(){
                         
                         <h3>BlackRock</h3>
                         <h4>Software Engineer Intern</h4>
-                        <h5>Summer 2020</h5>
+                        <p>Summer 2020</p>
                         <div className='experience-item'>
                             <div className='d'>
                             <p>Interned for the Aladdin Product Group (APG) Active Tools Team developing new features and solving bugs in tickets for an Angular application used by internal customers.</p>
@@ -47,7 +47,7 @@ function Experience(){
                         </div>
                         <h3>Amkor Technology</h3>
                         <h4>Web Applications Intern/Co-op</h4>
-                        <h5>Summer 2019 - Spring 2020</h5>
+                        <p>Summer 2019 - Spring 2020</p>
                         <div className='experience-item'>
                             <div className='d'>
                             <p>Interned on the Web Applications Team and completed two projects developing a web front end for native applications.  </p>

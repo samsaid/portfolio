@@ -7,7 +7,7 @@
     padding-left: 15px;
     padding-right: 30px;
     box-sizing: content-box;
-   
+   color: #234e5f;
     margin: auto;
 }
 
@@ -87,7 +87,7 @@ img {
   #btn{
     border: none;
     color: rgb(255, 255, 255);
-    background-color: #38525a;
+    background-color: #cf5880;
     padding: 9px 9px;
     text-align: center;
     text-decoration: none;
@@ -103,5 +103,5 @@ img {
   #btn:hover
   {
   background-image:none !important;
-  background-color: #38525af0!important;
+  background-color: rgba(196, 83, 121, 0.952)!important;
   }

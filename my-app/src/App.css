@@ -7,12 +7,16 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  background: #38525a;
+  background: #304d58;
+}
+
+::selection {
+  background: #eb6f98;
 }
 
 h2{
   font-size: 20px;
-  color:#38525a;
+  color:#234e5f;
 }
 .content {
   flex: 1 1 0%;
