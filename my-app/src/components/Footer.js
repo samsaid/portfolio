@@ -5,7 +5,7 @@ function Footer(){
     var year = date.getFullYear();
     return(
         <footer id='footer'>
-           <p>© {year} Samira Said</p> 
+           <p>  ✿ {year} samira said ✿ </p> 
         </footer>
     );
 }

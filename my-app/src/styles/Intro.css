@@ -13,7 +13,7 @@
 
 #title{
     font-size: 13px;
-  color: #38525a;
+  color: #fcfbf1;
 }
 
 .about-image{
@@ -29,8 +29,8 @@
 }
 
 .profile-img {
-   width: 400px;
-   border-radius: 10px;
+   width: 120px;
+   border-radius: 50%;
 }
 
 
@@ -42,16 +42,17 @@ img {
   
 .link{
     font-size: 29px;
-    color:#2469cb;
+    color:#11262e;
     display: inline-block;
     text-decoration: none;
-    margin-bottom: 20px;
+    
 }
 
-.link:hover{
+
+.link:active::after{
     text-decoration: none;
-    
   }
+
 
   .float-on-hover {
     display: inline-block;
@@ -63,17 +64,17 @@ img {
     transition-duration: 0.3s;
     -webkit-transition-property: transform;
     transition-property: transform;
-    -webkit-transition-timing-function: ease-out;
-    transition-timing-function: ease-out;
+    -webkit-transition-timing-function: 0.1s, ease-out;
+    transition-timing-function: 0.1s, ease-out;
   }
-  .float-on-hover:hover, .float-on-hover:focus, .float-on-hover:active {
+  .float-on-hover:hover {
     -webkit-transform: translateY(-8px);
     transform: translateY(-8px);
   }
+
 .intro-container {
   display: flex;
-  background-color: #fcfbf1;
-  margin-bottom:30px;
+  margin-bottom:20px;
   box-sizing: content-box;
   max-width: 550px;
   min-width: 55%;
@@ -97,11 +98,12 @@ img {
     cursor: pointer;
     font-family: Ubuntu Mono, serif;
     transition-duration: 0.3s;
+    margin-top: 15px;
 
   }
 
   #btn:hover
   {
   background-image:none !important;
-  background-color: rgba(196, 83, 121, 0.952)!important;
+  background-color: #cf5880f4!important;
   }

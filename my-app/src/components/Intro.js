@@ -1,15 +1,20 @@
 import "../styles/Intro.css";
 
 function Intro() {
-  var image = require("../images/sam1.jpg");
+  var image = require("../images/sam3.jpg");
 
   return (
     <div className="intro-container">
       <div className="row">
         <div className="intro-text">
+        <div className="about-image">
+          <img className="profile-img" src={image} alt="samira"></img>
+        </div>
           <div id="title">
             <h1>Samira Said</h1>
+           
             <div id="link">
+            
               <a
                 href="https://www.github.com/samsaid"
                 className="link float-on-hover"
@@ -30,20 +35,14 @@ function Intro() {
                 <i className="fa fa-linkedin"></i>
               </a>
               
-            </div>
+              </div>
             <a href="https://drive.google.com/file/d/147xxVE86JEuwR_w4fQqCJn5woBsaz0Eq/view" target="_blank"> <button id="btn" type="button">Resume as PDF</button></a>
-
-
-            
-
             <div>
 
             </div>
           </div>
         </div>
-        <div className="about-image">
-          <img className="profile-img" src={image} alt="Girl sitting"></img>
-        </div>
+        
       </div>
     </div>
   );

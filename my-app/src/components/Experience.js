@@ -13,8 +13,7 @@ function Experience(){
                         <p>Summer 2021</p>
                         <div className='experience-item'>
                             <div className='d'>
-                            <p>Interned for the Aladdin Product Group (APG) Data Layer Team developing a Visual 
-                                Studio Code plugin to improve developer productivity.</p>
+                            <p>Interned on the Data Layer Team to develop a Visual Studio Code plugin to improve developer productivity.</p>
                             </div>
                             <div className='skills'>
                             <ul>
@@ -31,7 +30,7 @@ function Experience(){
                         <p>Summer 2020</p>
                         <div className='experience-item'>
                             <div className='d'>
-                            <p>Interned for the Aladdin Product Group (APG) Active Tools Team developing new features and solving bugs in tickets for an Angular application used by internal customers.</p>
+                            <p>Interned on the Active Tools Team to develop new features and fix bugs described in tickets for a web application used by financial investors.</p>
                             </div>
                             <div className='skills'>
                             <ul>
@@ -50,7 +49,7 @@ function Experience(){
                         <p>Summer 2019 - Spring 2020</p>
                         <div className='experience-item'>
                             <div className='d'>
-                            <p>Interned on the Web Applications Team and completed two projects developing a web front end for native applications.  </p>
+                            <p>Interned on the Web Applications Team and completed two projects developing a web front end for native applications. </p>
                             </div>
                             <div className='skills'>
                             <ul>
