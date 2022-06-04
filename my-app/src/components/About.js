@@ -11,8 +11,9 @@ function About(){
                             <ul>
                                 <li>B.S. Computer Science </li>
                                 <li>Graduated December 2021</li>
-                                <li><b>Leadership/Organizations:</b> Undergraduate Teaching Assistant, National Society of Black Engineers, Women in Computer Science</li>
                                 <li><b>Courses:</b> Operating Systems, Design & Analysis of Algorithms, Mobile Application Development, Probability and Statistics, Database Management, Data Visualization, Multimedia Information Systems</li>
+                                <li><b>Leadership/Organizations:</b> Undergraduate Teaching Assistant, National Society of Black Engineers, Women in Computer Science, MobileDevs, Code2040, Rewriting the Code</li>
+                                <li><b>Awards:</b> Google Scholarship - AnitaB Grace Hopper Celebration, 2nd place team - ASU WiCS 13th Annual Programming Competition</li>
                             </ul>
                         </div>
                     </div>
