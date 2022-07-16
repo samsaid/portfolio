@@ -10,30 +10,28 @@ function Projects(){
                
 
                 <div className='desc'>
-                   <h5><a href="https://www.youtube.com/watch?v=ZKO3Fh91f9Q" className="projlink float-on-hover" target="_blank" rel="noopener noreferrer"> <i className="fa fa-link"></i>&nbsp;Senior Capstone Project</a></h5>
-                   <p>UX development for Augmented Reality construction simulator application</p>
+                   <h5><a href="https://www.youtube.com/watch?v=ZKO3Fh91f9Q" className="projlink float-on-hover" target="_blank" rel="noopener noreferrer"> <i className="fa fa-link"></i>&nbsp;Augmented Reality Construction Simulator</a></h5>
+                   <p>Development for an AR application</p>
                    <ul>
                        <li>Unity</li>
                        <li>C#</li>
-                       <li>Microsoft HoloLens</li>
+                       <li>Microsoft Mixed Reality Toolkit</li>
+                       <li>HoloLens 1 & 2</li>
                    </ul>
                     
-                    <h5><a href="https://github.com/samsaid/CSE412-Airline-Tickets" className="projlink float-on-hover" target="_blank" rel="noopener noreferrer"> <i className="fa fa-link"></i>&nbsp;Database Management System </a></h5>
+                    <h5><a href="https://github.com/samsaid/CSE412-Airline-Tickets" className="projlink float-on-hover" target="_blank" rel="noopener noreferrer"> <i className="fa fa-link"></i>&nbsp;Relational Database</a></h5>
 
 
-                  <p>Interactive relational database</p>
+                  <p>PostgreSQL Database and a full stack application</p>
                    <ul>
-                       <li>PostgreSQL</li>
-                       <li>SQL</li>
-                       <li>React</li>
-                       <li>JavaScript</li>
+                       <li>PostgresSQL, SQL</li>
+                       <li>React, Bootstrap, Axios</li>
+                       <li>Node.js, Express</li>
                    </ul>
                     <h5><a href="https://github.com/samsaid/twitter-sentiment-analysis" className="projlink float-on-hover" target="_blank" rel="noopener noreferrer"> <i className="fa fa-link"></i>&nbsp;Twitter Sentiment Analysis</a></h5>
-                    <p>Natural language Processing model extracting sentiment from tweets</p>
+                    <p>Natural language processing model using Twitter API</p>
                    <ul>
                        <li>Python</li>
-                       <li>Matlab</li>
-                       <li>Twitter API</li>
                    </ul>             
                 </div>
 

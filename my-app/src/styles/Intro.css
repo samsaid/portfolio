@@ -29,7 +29,7 @@
 }
 
 .profile-img {
-   width: 120px;
+   width: 75px;
    border-radius: 50%;
 }
 
@@ -88,7 +88,7 @@ img {
   #btn{
     border: none;
     color: rgb(255, 255, 255);
-    background-color: #cf5880;
+    background-color: #2469cb;
     padding: 9px 9px;
     text-align: center;
     text-decoration: none;
@@ -105,5 +105,5 @@ img {
   #btn:hover
   {
   background-image:none !important;
-  background-color: #cf5880f4!important;
+  background-color: #246acbda!important;
   }
