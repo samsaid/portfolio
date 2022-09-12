@@ -7,11 +7,17 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  background: #aa91bc;
+  background: #cca1e3;
+  background-color: rgb(231, 180, 140);
+  box-shadow:
+    inset 60px 0 120px rgb(250, 139, 200),  /* left magenta */
+    inset -60px 0 120px rgb(110, 189, 250); /* right cyan */
+    background-image : url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffffff&noise=5c5c5c&density=13&opacity=62);
+
 }
 
 ::selection {
-  background: #d1ffcd;
+  background: #cca1e3;
 }
 
 h2{
