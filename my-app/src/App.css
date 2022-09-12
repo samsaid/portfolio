@@ -7,18 +7,11 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  background: #cca1e3;
-  background-color: rgb(231, 180, 140);
-  box-shadow:
-    inset 60px 0 120px rgb(250, 139, 200),  /* left magenta */
-    inset -60px 0 120px rgb(110, 189, 250); /* right cyan */
-    background-image : url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffffff&noise=5c5c5c&density=13&opacity=62);
+  background: #937cbf;
+
 
 }
 
-::selection {
-  background: #cca1e3;
-}
 
 h2{
   font-size: 20px;
@@ -46,16 +39,15 @@ h2{
 .container {
   display: flex;
   background-color: #fcfbf1;
-  margin-bottom:30px;
   box-sizing: content-box;
   max-width: 550px;
   min-width: 55%;
-  border-radius: 10px;
+  border-radius: 6px;
   margin-left: 10px;
   margin-right: 10px;
-  padding: 14px;
+  padding: 15px;
   width: 100%;
-  margin-bottom:30px;
+  margin-bottom:25px;
 }
 
 .h2{
