@@ -1,16 +1,6 @@
 # portfolio
-single-page react portfolio. most up to date branch is "new-format"
-
-# table of contents
-- [portfolio](#ˏˋ-portfolio-ˎ)
-- [table of contents](#table-of-contents)
-  - [features](#features)
-  - [tools](#tools)
-  - [development](#development)
-    - [project hierachy](#project-hierachy)
-    - [dependencies](#dependencies)
-    - [set up](#set-up)
-    - [deploy changes](#deploy-changes)
+single-page react portfolio. 
+-> current branch deployed is "new-format"
 
 ## features
 - slider
@@ -25,26 +15,6 @@ single-page react portfolio. most up to date branch is "new-format"
 - javascript
 
 ## development
-### project hierachy
-general overview of project hierarchy
-- 📁 portfolio 
-  - README.md
-  - 📁 my-app (react app)
-    - 📁 node modules
-    - 📁 public
-    - 📁 src
-      - App.js (single file that loads files in components)
-      - 📁 components (seperate files for each div)
-        - Intro.js (div 1)
-        - About.js (div 2)
-        - Projects (div 3)
-        - Experience.js (div 4)
-        - Footer.js (div 5)
-        - ImageSlider.js
-        - SliderData.js
-        - Slideshow.js
-      - 📁 images (contains images used on page)
-      - 📁 styles (CSS files named after corresponsing js file)
 
 ### dependencies
 dependencies required for development set up
@@ -67,4 +37,4 @@ git commit -m 'message'
 git push
 npm run deploy
 ```
---> custom url will break. visit repo page on github.com, locate github pages settings and readd custom url
+--> note: if using custum url, need to re-add to url on to page. go repo page on the browser, under the page's settings re-add custom url
