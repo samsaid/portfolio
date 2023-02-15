@@ -4,7 +4,6 @@ import About from './components/About.js'
 import Experience from './components/Experience.js'
 import Projects from './components/Projects.js'
 import Footer from './components/Footer.js'
-import Divider from './components/Divider';
 
 
 function App() {

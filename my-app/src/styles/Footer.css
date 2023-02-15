@@ -3,9 +3,14 @@
     color: #c169bc;
     stroke-width: 4em;
     padding-bottom: 1em;
-    font-size: .87em;
+    font-size: .80em;
 }
 
-a:link {
+
+.footerlink {
+    color: #c169bc;
+}
+
+.footerlink:visited {
     color: #c169bc;
 }
