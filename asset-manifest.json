@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b3887353.css",
-    "main.js": "/portfolio/static/js/main.c64b2960.js",
+    "main.css": "/portfolio/static/css/main.435784db.css",
+    "main.js": "/portfolio/static/js/main.abc469a8.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -12,11 +12,11 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/portfolio/index.html",
-    "main.b3887353.css.map": "/portfolio/static/css/main.b3887353.css.map",
-    "main.c64b2960.js.map": "/portfolio/static/js/main.c64b2960.js.map"
+    "main.435784db.css.map": "/portfolio/static/css/main.435784db.css.map",
+    "main.abc469a8.js.map": "/portfolio/static/js/main.abc469a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3887353.css",
-    "static/js/main.c64b2960.js"
+    "static/css/main.435784db.css",
+    "static/js/main.abc469a8.js"
   ]
 }
