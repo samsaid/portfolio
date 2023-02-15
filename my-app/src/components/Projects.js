@@ -11,7 +11,7 @@ function Projects(){
 
                 <div className='desc'>
                    <h5><a href="https://www.youtube.com/watch?v=ZKO3Fh91f9Q" className="projlink float-on-hover" target="_blank" rel="noopener noreferrer"> <i className="fa fa-link"></i>&nbsp;Augmented Reality Construction Simulator</a></h5>
-                   <p>3D game development for a doctrate student's AR application</p>
+                   <p>3D game development for a graduate student's AR application</p>
                    <ul>
                        <li>Unity</li>
                        <li>C#</li>
