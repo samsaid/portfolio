@@ -1,5 +1,5 @@
 # portfolio
-a ˗ˏˋ simple ´ˎ˗ single-page react portfolio. most up to date branch is "new-format". 
+single-page react portfolio. most up to date branch is "new-format"
 
 # table of contents
 - [portfolio](#ˏˋ-portfolio-ˎ)
