@@ -1,6 +1,11 @@
-#footer, #changeText{
-    color: #fbfbfb;
-    text-align: left;
+#footer,
+#changeText {
+    color: #c169bc;
+    stroke-width: 4em;
     padding-bottom: 1em;
     font-size: .87em;
+}
+
+a:link {
+    color: #c169bc;
 }

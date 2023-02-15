@@ -1,23 +1,30 @@
-.experience-item{
+.experience-item {
     display: flex;
-    flex-wrap:column;
+    flex-wrap: column;
     justify-content: center;
     justify-items: center;
     align-items: flex-start;
 }
 
-.d{
-    display: flex;
-    flex: 2 1 0;
+h4,
+h5 {}
+
+h5 {
+    margin-bottom: -1px;
 }
 
-.skills{
+.d {
     display: flex;
-    flex: 2 0 1;
+    flex: 2 0 0;
+}
+
+.skills {
+    display: flex;
+    flex: 1 0 0;
     padding-right: 20px;
 
 }
 
-.dev{
+.dev {
     display: flex;
 }
