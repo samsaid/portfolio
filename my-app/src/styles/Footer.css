@@ -4,11 +4,13 @@
     stroke-width: 4em;
     padding-bottom: 1em;
     font-size: .80em;
+
 }
 
 
 .footerlink {
     color: #c169bc;
+    text-decoration: none;
 }
 
 .footerlink:visited {

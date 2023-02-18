@@ -6,7 +6,7 @@ function Footer(){
     
     return(
         <footer id='footer'>
-           <p> {year}<b> ✿ </b> made on <a href="https://github.com/samsaid/portfolio" className="footerlink" target="_blank" rel="noopener noreferrer">github</a></p> 
+           <p> {year} <a href="https://github.com/samsaid/portfolio" className="footerlink" target="_blank" rel="noopener noreferrer">✿</a> Samira Said</p> 
         </footer>
     );
 }
