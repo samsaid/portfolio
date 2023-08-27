@@ -11,29 +11,29 @@ function Projects(){
 
                 <div className='desc'>
                    <h5><a href="https://www.youtube.com/watch?v=ZKO3Fh91f9Q" className="projlink float-on-hover" target="_blank" rel="noopener noreferrer"> <i className="fa fa-link"></i>&nbsp;Augmented Reality Construction Simulator</a></h5>
-                   <p>3D game development for a graduate student's AR application</p>
+                   <p>3D development for a Civil Engineering educational game AR/VR application</p>
                    <ul>
-                       <li>Unity</li>
-                       <li>C#</li>
-                       <li>Microsoft Mixed Reality Toolkit</li>
-                       <li>HoloLens 1 & 2</li>
+                    <li>C#</li>
+                       <li>Unity 3D</li>
+                       <li>Mixed Reality Toolkit (MRTK-Unity)</li>
+                       <li>Microsoft HoloLens</li>
                    </ul>
                     
                     <h5><a href="https://github.com/samsaid/CSE412-Airline-Tickets" className="projlink float-on-hover" target="_blank" rel="noopener noreferrer"> <i className="fa fa-link"></i>&nbsp;Flyts</a></h5>
 
 
-                  <p>a robust full stack application</p>
+                  <p>Designed and implemented relational database</p>
                    <ul>
-                       <li>PostgresSQL, SQL</li>
-                       <li>React, Bootstrap, Axios</li>
-                       <li>Node.js, Express</li>
+                       <li>Database: PostgreSQL</li>
+                       <li>Front end: React, Bootstrap, Axios</li>
+                       <li>Backend: Node JS, Express</li>
                    </ul>
                     <h5><a href="https://github.com/samsaid/twitter-sentiment-analysis" className="projlink float-on-hover" target="_blank" rel="noopener noreferrer"> <i className="fa fa-link"></i>&nbsp;Twitter Sentiment Analysis</a></h5>
-                    <p>python script gathering a batch of tweets and calculating sentiment</p>
+                    <p>Sentiment analysis on Tweets</p>
                    <ul>
                        <li>Python</li>
-                       <li>Twitter API</li>
-                       <li>NLP Library</li>
+                       <li>Twitter Developer API</li>
+                       <li>Natural Language Toolkit (NLTK)</li>
                    </ul>             
                 </div>
 

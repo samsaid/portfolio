@@ -7,7 +7,7 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  background: #1f4b3a;
+  background: #355244;
 }
 
 ::selection {
@@ -41,11 +41,11 @@ h2 {
 
 .container {
   display: flex;
-  background-color: #d1eeee;
-  box-sizing: content-box;
-  max-width: 450px;
-  min-width: 50%;
-  border-radius: 10px;
+  background-color: #faf5f5;
+  box-sizing: border-box;
+  max-width: 400px;
+  min-width: 38%;
+  border-radius: 13px;
   margin-left: 10px;
   margin-right: 10px;
   padding: 15px;

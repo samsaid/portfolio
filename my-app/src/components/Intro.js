@@ -34,10 +34,10 @@ function Intro() {
               >
                 <i className="fa fa-linkedin"></i>
               </a>
-              
-              </div>
-              <a href="https://drive.google.com/file/d/1m-v23Ttl3dpJCUJ1ha6z-uELCZ4-mgHw/view" target="_blank"> <button id="btn" type="button">Resume as PDF</button></a>
-            <div>
+              <div id="linkabove">
+            <a href="https://drive.google.com/file/d/1m-v23Ttl3dpJCUJ1ha6z-uELCZ4-mgHw/view" target="_blank"> <button id="btn" type="button">Resume as PDF</button></a>
+
+            </div>
 
             </div>
           </div>

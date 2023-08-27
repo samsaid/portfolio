@@ -13,14 +13,14 @@ function Experience(){
                         <h5>January 2023 - present</h5>
                         <div className='experience-item'>
                             <div className='d'>
-                                    <p>Core member of an agile team completing user story development for the UI of a customer-facing web application </p>
+                                    <p>Core member of an Agile team developing features for an enterprise web application - tranforming prototypes into functional features with React and API integrations</p>
                             </div>
                             
                             <div className='skills'>
                             <ul>
-                                    <li>React/Redux</li>
-                                    <li>Docker</li>
-                                    <li>Jenkins</li>
+                                    <li>React</li>
+                                    <li>Node</li>
+                                    <li>Rest APIs</li>
                                 </ul>
                             </div>
                         </div>
@@ -30,7 +30,7 @@ function Experience(){
                         <div className='experience-item'>
                             <div className='d'>
                             
-                                <p>Implemented a VSCode plugin that applies syntax highlighting for custom grammar to improve developer productivity</p>
+                                <p>Intern on the Aladdin Product Group developing a Visual Studio Code plugin that assists engineers in code quality</p>
 
                                 
                             </div>
@@ -48,7 +48,7 @@ function Experience(){
                         <div className='experience-item'>
                             <div className='d'>
                                 
-                                    <p>Worked in BlackRock's Product Group to create features and debug user stories on a web application in production</p>
+                                    <p>Intern on the Aladdin Product Group developing feature enhancements and working on bug fixes for a web application</p>
                                 
                             </div>
                             <div className='skills'>

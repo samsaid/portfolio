@@ -33,11 +33,11 @@
   border-radius: 50%;
   cursor: pointer;
   margin: 15px 3px 0px;
-  background-color: #5d9c84;
+  background-color: #355244;
 }
 
 .slideshowDot.active {
-  background-color: #1f4b3a;
+  background-color: #c169bc;
 }
 
 .image {
