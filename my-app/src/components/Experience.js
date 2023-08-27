@@ -13,7 +13,7 @@ function Experience(){
                         <h5>January 2023 - present</h5>
                         <div className='experience-item'>
                             <div className='d'>
-                                    <p>Core member of an Agile team developing features for an enterprise web application - tranforming prototypes into functional features with React and API integrations</p>
+                                    <p>Core member of an Agile team developing features for an enterprise web application</p>
                             </div>
                             
                             <div className='skills'>
