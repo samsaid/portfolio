@@ -7,14 +7,13 @@ function Intro() {
     <div className="intro-container">
       <div className="row">
         <div className="intro-text">
-        <div className="about-image">
-          <img className="profile-img" src={image} alt="samira"></img>
-        </div>
+          <div className="about-image">
+            <img className="profile-img" src={image} alt="samira"></img>
+          </div>
           <div id="title">
             <h1>Samira Said</h1>
-           
+
             <div id="link">
-            
               <a
                 href="https://www.github.com/samsaid"
                 className="link float-on-hover"
@@ -35,14 +34,19 @@ function Intro() {
                 <i className="fa fa-linkedin"></i>
               </a>
               <div id="linkabove">
-            <a href="https://drive.google.com/file/d/1m-v23Ttl3dpJCUJ1ha6z-uELCZ4-mgHw/view" target="_blank"> <button id="btn" type="button">Resume as PDF</button></a>
-
-            </div>
-
+                <a
+                  href="https://drive.google.com/file/d/1u2WVrfRSiRUFX8ThTtT0mkOe1behQDgT/view?usp=sharing"
+                  target="_blank"
+                >
+                  {" "}
+                  <button id="btn" type="button">
+                    Resume as PDF
+                  </button>
+                </a>
+              </div>
             </div>
           </div>
         </div>
-        
       </div>
     </div>
   );
