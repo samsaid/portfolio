@@ -12,8 +12,8 @@ function App() {
         <div className="col">
           <Intro></Intro>
           <About></About>
-          <Projects></Projects>
-          <Experience></Experience>
+            <Experience></Experience>
+            <Projects></Projects>
           <Footer></Footer>
         </div>
       </div>

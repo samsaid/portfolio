@@ -1,7 +1,7 @@
 import "../styles/Intro.css";
 
 function Intro() {
-  var image = require("../images/sam3.jpg");
+  var image = require("../images/sam3.png");
 
   return (
     <div className="intro-container">

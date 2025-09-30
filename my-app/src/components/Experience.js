@@ -6,27 +6,32 @@ function Experience(){
         <div className='container'>
             <div className='row'>
                 <div className='column'>
-                    <h2>Work Experience</h2>
+                    <h2>Experience</h2>
                     <div className='desc'>
                     <h3>American Express</h3>
+                    <div className="section-indent">
                         <h4>Software Engineer</h4>
-                        <h5>January 2023 - present</h5>
+                        <h5>01.2023 - Present</h5>
                         <div className='experience-item'>
                             <div className='d'>
-                                    <p>Core member of an Agile team developing features for an enterprise web application</p>
+                                <p>Full time software engineer working on the Amex Debit Card product team.</p>
                             </div>
                             
                             <div className='skills'>
                             <ul>
-                                    <li>React</li>
-                                    <li>Node</li>
-                                    <li>Rest APIs</li>
+                                    <li>React + Node</li>
+                                    <li>JavaScript</li>
+                                    <li>Java</li>
+                                    <li>Apache Spark</li>
                                 </ul>
                             </div>
                         </div>
+                        </div>
+                    <div className="same-company">
                     <h3>BlackRock</h3>
+                    <div className="section-indent">
                         <h4>  Software Engineer Intern </h4>
-                        <h5>Summer 2021</h5>
+                        <h5>05.2021 - 08.2021</h5>
                         <div className='experience-item'>
                             <div className='d'>
                             
@@ -44,7 +49,7 @@ function Experience(){
                             
                         </div>
                         <h4>Software Engineer Intern </h4>
-                        <h5>Summer 2020</h5>
+                        <h5>05.2020 - 08.2020</h5>
                         <div className='experience-item'>
                             <div className='d'>
                                 
@@ -62,7 +67,8 @@ function Experience(){
                        
                             
                         </div>
-                    
+                        </div>
+                    </div>
                         
                     </div>
                 </div>
