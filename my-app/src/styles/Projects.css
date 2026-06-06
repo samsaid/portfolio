@@ -39,7 +39,7 @@
 
   .projlink{
     font-size: 14px;
-    color: #2469cb;
+    color: #3b5bdb;
     display: inline-block;
     text-decoration: none;
 
@@ -48,4 +48,27 @@
 .projrow{
   display: flex;
   flex-wrap:column;
+}
+
+.column1 h2 {
+  margin-bottom: 1rem;
+}
+
+.column1 .experience-item {
+  align-items: flex-start;
+}
+
+.column1 .experience-item .d {
+  flex: 1 0 0;
+  flex-direction: column;
+}
+
+.column1 .experience-item h5 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.column1 .experience-item .skills ul {
+  margin-top: 0;
+  padding-top: 0;
 }

@@ -1,22 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Questrial&family=Ubuntu+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,700;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 
 .App {
   text-align: center;
-  font-family: Ubuntu Mono, serif;
+  font-family: 'DM Sans', sans-serif;
   display: flex;
   align-items: center;
   flex-direction: column;
-  background: #FFFFFF;
+  background:
+    radial-gradient(ellipse 70% 320px at 100% 0%, rgb(191, 208, 238) 0%, transparent 100%),
+    radial-gradient(ellipse 55% 280px at 80% 0%, rgba(246, 153, 192, 0.766) 0%, transparent 100%),
+    radial-gradient(ellipse 40% 240px at 95% 0%, rgba(228, 206, 250, 0.35) 0%, transparent 100%),
+    #F8F7F3;
+  /* color: #4b4744; */
 }
 
 ::selection {
-  background: #c169bc;
+  background: #c5d3fb;
+  color: #3b5bdb;
 }
 
 h2 {
   font-size: 20px;
+  color: #3a3a3a;
 }
 
 .content {
@@ -42,14 +50,14 @@ h2 {
 
 .container {
   display: flex;
-  background-color: #ffffff;
-  border-color: black;
+  background-color: #FDFDFD;
+  border-color: #ECE7E1;
   border-width: 1px;
   border-style: solid;
   box-sizing: border-box;
   max-width: 400px;
   min-width: 38%;
-  border-radius: 5px;
+  border-radius: 24px;
   margin-left: 10px;
   margin-right: 10px;
   padding: 15px;
@@ -73,7 +81,7 @@ h2 {
   flex-direction: row;
   flex-wrap: wrap;
   width: 100%;
-  padding: 10px;
+  padding: 20px;
   box-sizing: content-box;
   row-gap: 10px;
   align-items: center;
@@ -98,7 +106,8 @@ h2 {
 
 .desc {
   text-align: left;
-  font-size: 16px;
+  font-size: 12px;
+  color: #404040
 }
 
 .hr {

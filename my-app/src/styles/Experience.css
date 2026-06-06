@@ -11,7 +11,7 @@
 }
 
 h5{
-    color: rgb(152, 152, 152) !important;
+    color: rgb(55, 52, 54) !important;
     margin-top: -.5rem;
     margin-bottom: -.5rem;
 }
@@ -23,6 +23,7 @@ h5{
 .d {
     display: flex;
     flex: 2 0 0;
+    flex-direction: column;
 }
 
 .skills {

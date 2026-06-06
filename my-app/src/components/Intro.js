@@ -1,18 +1,18 @@
 import "../styles/Intro.css";
 
 function Intro() {
-  var image = require("../images/sam3.png");
+  var image = require("../images/sam3.jpg");
 
   return (
     <div className="intro-container">
       <div className="row">
         <div className="intro-text">
           <div className="about-image">
-            <img className="profile-img" src={image} alt="samira"></img>
+            {/* <img className="profile-img" src={image} alt="samira"></img> */}
           </div>
           <div id="title">
-            <h1>Samira Said</h1>
-
+            <h1>samira said</h1>
+            {/* <p>creating and building</p> */}
             <div id="link">
               <a
                 href="https://www.github.com/samsaid"
@@ -33,17 +33,6 @@ function Intro() {
               >
                 <i className="fa fa-linkedin"></i>
               </a>
-              <div id="linkabove">
-                <a
-                  href="https://drive.google.com/file/d/1qeq_XqYBHnuSro9nqORsj7xETzN5dwIF/view?usp=sharing"
-                  target="_blank"
-                >
-                  {" "}
-                  <button id="btn" type="button">
-                    Resume as PDF
-                  </button>
-                </a>
-              </div>
             </div>
           </div>
         </div>

@@ -2,7 +2,7 @@ import '../styles/Experience.css'
 
 function Experience(){
     return(
-        
+
         <div className='container'>
             <div className='row'>
                 <div className='column'>
@@ -10,66 +10,55 @@ function Experience(){
                     <div className='desc'>
                     <h3>American Express</h3>
                     <div className="section-indent">
-                        <h4>Software Engineer</h4>
-                        <h5>01.2023 - Present</h5>
                         <div className='experience-item'>
                             <div className='d'>
-                                <p>Full time software engineer working on the Amex Debit Card product team.</p>
+                                <h4>Software Engineer II</h4>
+                                <h5>2023 - Present</h5>
+                                <p>Front end software engineer on the Amex Debit Card platform team</p>
                             </div>
-                            
                             <div className='skills'>
-                            <ul>
-                                    <li>React + Node</li>
+                                <ul>
+                                    <li>React</li>
                                     <li>JavaScript</li>
-                                    <li>Java</li>
-                                    <li>Apache Spark</li>
+                                    <li>Node + Express</li>
+                                    <li>Rest APIs</li>
                                 </ul>
                             </div>
                         </div>
-                        </div>
+                    </div>
                     <div className="same-company">
                     <h3>BlackRock</h3>
                     <div className="section-indent">
-                        <h4>  Software Engineer Intern </h4>
-                        <h5>05.2021 - 08.2021</h5>
                         <div className='experience-item'>
                             <div className='d'>
-                            
-                                <p>Intern on the Aladdin Product Group developing a Visual Studio Code plugin that assists engineers in code quality</p>
-
-                                
+                                <h4>Software Engineer Intern</h4>
+                                <h5>Summer 2021</h5>
+                                <p>Returning intern on the Aladdin Product Group building a developer productivity tool</p>
                             </div>
                             <div className='skills'>
-                            <ul>
+                                <ul>
                                     <li>TypeScript</li>
                                     <li>Node.js</li>
                                     <li>Language Parser API</li>
                                 </ul>
                             </div>
-                            
                         </div>
-                        <h4>Software Engineer Intern </h4>
-                        <h5>05.2020 - 08.2020</h5>
                         <div className='experience-item'>
                             <div className='d'>
-                                
-                                    <p>Intern on the Aladdin Product Group developing feature enhancements and working on bug fixes for a web application</p>
-                                
+                                <h4>Software Engineer Intern</h4>
+                                <h5>Summer 2020</h5>
+                                <p>Intern on the Aladdin Product Group developing feature enhancements and working on bug fixes for a web application</p>
                             </div>
                             <div className='skills'>
-                            <ul>
+                                <ul>
                                     <li>Angular</li>
                                     <li>JavaScript</li>
                                     <li>Java</li>
                                 </ul>
                             </div>
-                    
-                       
-                            
-                        </div>
                         </div>
                     </div>
-                        
+                    </div>
                     </div>
                 </div>
             </div>

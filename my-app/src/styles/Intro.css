@@ -1,3 +1,8 @@
+#title h1 {
+  color: #3a3a3a;
+  font-weight: 500;
+}
+
 .intro-text {
   display: flex;
   flex-direction: column;
@@ -40,13 +45,19 @@ img {
 
 .link {
   font-size: 24px;
-  color: #c169bc;
+  color: #555a61;
   display: inline-block;
   text-decoration: none;
+  margin-right: 10px;
 }
 
 #linkabove {
   padding-bottom: 1rem;
+}
+
+.about-link {
+  font-size: 14px;
+  vertical-align: middle;
 }
 
 
@@ -85,7 +96,7 @@ img {
   margin-right: 10px;
   padding: 14px;
   width: 100%;
-  margin-top: 3rem;
+  margin-top: 2rem;
 }
 
 #btn {
