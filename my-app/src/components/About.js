@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import '../styles/About.css'
 
 function About() {
@@ -11,8 +12,8 @@ function About() {
                         <ul>
                             <li>B.S. Computer Science, Dec 2021</li>
                             <li>Clubs: National Society Of Black Engineers (NSBE), Rewriting the Code, Code2040, Women in Computer Science</li>
-                            <li>Hobbies: Film photography, Strength Training, Pickleball, Making matcha</li>
-                            <li>Interests: AI, Web Accessibility, User Experience, Data Engineering </li>
+                            <li>Hobbies: <Link to="/photography" className="footerlink">Film photography</Link>, Strength Training, Pickleball, Making matcha</li>
+                            <li>Interests: AI, Web Accessibility, User Experience, Data Engineering</li>
                         </ul>
                     </div>
                 </div>

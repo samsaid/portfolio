@@ -45,7 +45,7 @@ function Footer(){
     return(
         <footer id='footer'>
             <div className="footer-row">
-                <span className="footer-location">{emoji} {time}, Phoenix</span>
+                <span className="footer-location">{emoji} {time}, Arizona</span>
             </div>
             <div className="footer-row">
                 <a className="changelog" href="https://github.com/samsaid/portfolio" target="_blank" rel="noopener noreferrer">last updated {lastUpdated}</a>
