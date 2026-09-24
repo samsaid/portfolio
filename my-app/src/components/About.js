@@ -12,8 +12,8 @@ function About() {
                         <ul>
                             <li>B.S. Computer Science, Dec 2021</li>
                             <li>Clubs: National Society Of Black Engineers (NSBE), Rewriting the Code, Code2040, Women in Computer Science</li>
-                            <li>Hobbies: <Link to="/photography" className="footerlink">Film photography</Link>, Strength Training, Pickleball, Making matcha</li>
-                            <li>Interests: AI, Web Accessibility, User Experience, Data Engineering</li>
+                            <li>Hobbies: Photography, Strength Training, Pickleball, Making matcha</li>
+                            <li>Interests: AI, Web Accessibility, User Experience</li>
                         </ul>
                     </div>
                 </div>
