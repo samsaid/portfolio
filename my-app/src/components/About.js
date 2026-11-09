@@ -12,7 +12,7 @@ function About() {
                         <ul>
                             <li>B.S. Computer Science</li>
                             <li>Clubs: National Society Of Black Engineers (NSBE), Rewriting the Code, Code2040, Women in Computer Science</li>
-                            <li>Hobbies: Photography, Strength Training, Pickleball, Making matcha</li>
+                            <li>Hobbies: <Link to="/photography" className="footerlink">Film photography</Link>, Strength Training, Pickleball, matcha</li>
                             <li>Interests: AI, Web Accessibility, User Experience</li>
                         </ul>
                     </div>

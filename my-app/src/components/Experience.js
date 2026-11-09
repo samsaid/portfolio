@@ -14,13 +14,13 @@ function Experience(){
                             <div className='d'>
                                 <h4>Software Engineer II</h4>
                                 <h5>2023 - Present</h5>
-                                <p>Front end software engineer on the Amex Debit Card platform team</p>
+                                <p>Full stack software engineer on the Amex Debit Card platform team</p>
                             </div>
                             <div className='skills'>
                                 <ul>
                                     <li>React</li>
                                     <li>JavaScript</li>
-                                    <li>Node + Express</li>
+                                    <li>Node + Express (BFF app)</li>
                                     <li>Rest APIs</li>
                                 </ul>
                             </div>

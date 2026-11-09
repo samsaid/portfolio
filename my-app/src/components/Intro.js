@@ -1,14 +1,14 @@
 import "../styles/Intro.css";
 
 function Intro() {
-  // var image = require("../images/sam3.jpg");
+  var image = require("../images/samira.jpg");
 
   return (
     <div className="intro-container">
       <div className="row">
         <div className="intro-text">
           <div className="about-image">
-            {/* <img className="profile-img" src={image} alt="samira"></img> */}
+            <img className="profile-img" src={image} alt="samira"></img>
           </div>
           <div id="title">
             <h1>samira said</h1>

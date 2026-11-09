@@ -10,12 +10,12 @@ function Footer(){
         const update = () => {
             const now = new Date();
             const hour = parseInt(now.toLocaleString('en-US', {
-                timeZone: 'America/Phoenix',
+                timeZone: 'America/New_York',
                 hour: 'numeric',
                 hour12: false,
             }));
             const formatted = now.toLocaleTimeString('en-US', {
-                timeZone: 'America/Phoenix',
+                timeZone: 'America/New_York',
                 hour: '2-digit',
                 minute: '2-digit',
             });
@@ -45,7 +45,7 @@ function Footer(){
     return(
         <footer id='footer'>
             <div className="footer-row">
-                <span className="footer-location">{emoji} {time}, Arizona</span>
+                <span className="footer-location">{emoji} {time}, nyc</span>
             </div>
             <div className="footer-row">
                 <a className="changelog" href="https://github.com/samsaid/portfolio" target="_blank" rel="noopener noreferrer">last updated {lastUpdated}</a>
