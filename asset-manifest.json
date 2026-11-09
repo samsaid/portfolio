@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9dcfd02a.css",
-    "main.js": "/portfolio/static/js/main.62df05e6.js",
+    "main.css": "/portfolio/static/css/main.08b1a2aa.css",
+    "main.js": "/portfolio/static/js/main.93804a4c.js",
     "static/media/100_1221.JPG": "/portfolio/static/media/100_1221.98a5dd24725ef741676a.JPG",
     "static/media/100_1147.jpeg": "/portfolio/static/media/100_1147.cf6b665c8e7df5ab4d42.jpeg",
     "static/media/100_1164.jpeg": "/portfolio/static/media/100_1164.bead8079daa7d5a871de.jpeg",
+    "static/media/grand-canyon.jpeg": "/portfolio/static/media/grand-canyon.15296707954c3c74e7c8.jpeg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/psg-stadium.jpeg": "/portfolio/static/media/psg-stadium.fc62fb2a94104920438b.jpeg",
     "static/media/fontawesome-webfont.eot": "/portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/cse486.jpg": "/portfolio/static/media/cse486.078cad1ed65ae36f7c2a.jpg",
@@ -13,12 +15,13 @@
     "static/media/cse412.jpg": "/portfolio/static/media/cse412.c4541fe21d45aaf458f5.jpg",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/samira.jpg": "/portfolio/static/media/samira.81721af5d9320f142e84.jpg",
     "index.html": "/portfolio/index.html",
-    "main.9dcfd02a.css.map": "/portfolio/static/css/main.9dcfd02a.css.map",
-    "main.62df05e6.js.map": "/portfolio/static/js/main.62df05e6.js.map"
+    "main.08b1a2aa.css.map": "/portfolio/static/css/main.08b1a2aa.css.map",
+    "main.93804a4c.js.map": "/portfolio/static/js/main.93804a4c.js.map"
   },
   "entrypoints": [
-    "static/css/main.9dcfd02a.css",
-    "static/js/main.62df05e6.js"
+    "static/css/main.08b1a2aa.css",
+    "static/js/main.93804a4c.js"
   ]
 }
